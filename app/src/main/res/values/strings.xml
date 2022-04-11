@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="x_text">X</string>
+    <string name="o_text">O</string>
+    <string name="empty_text">_</string>
+    <string name="TextCPUturn">It is CPU\'s turn to play!</string>
+    <string name="TextXturn">It is X\'s turn to play!</string>
+    <string name="TextOturn">It is O\'s turn to play!</string>
+</resources>
